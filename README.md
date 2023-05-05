@@ -1,13 +1,38 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project MySQL All For One 
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+This project was developed while I was studying SQL at Trybe Programming School.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Skills I needed for this project:
+
+ - Finding data in an SQL database;
+
+ - Filter data specifically;
+
+ - Manipulate tables;
+
+Regular deadline: May 9, 2023 at 2:00 pm
+
+<details>
+  <summary><strong>🏗 Project structure</strong></summary><br />
+
+At the root of the project, there are files called desafioN.sql, each N equals the number of the challenge I performed.
+
+</details>
+
+<details>
+  <summary><strong>🖥️ To access</strong></summary><br />
+
+1 - Clone the repository:
+`git clone git@github.com:VicSales28/project-mysql-all-for-one.git`
+
+2 - Enter the repository folder you just cloned.
+
+You must be using node version 16 (or higher).
+
+To check your version, use the command:
+`nvm --version`
+
+3 - With the required version, install the dependencies:
+`npm install`
+
+</details>
